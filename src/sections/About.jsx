@@ -70,12 +70,12 @@ const About = () => {
             />
             <Card
               style={{ rotate: "-45deg", top: "70%", left: "25%" }}
-              image="assets/logos/nextjs-pink.png"
+              image="assets/logos/nextjs-pink.svg"
               containerRef={grid2Container}
             />
             <Card
               style={{ rotate: "360deg", top: "5%", left: "10%" }}
-              image="assets/logos/python-removebg-preview.png"
+              image="assets/logos/python.svg"
               containerRef={grid2Container}
             />
           </div>

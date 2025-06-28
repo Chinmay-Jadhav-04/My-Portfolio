@@ -2,31 +2,43 @@ import { OrbitingCircles } from "./OrbitingCircles";
 
 export function Frameworks() {
   const skills = [
-    "auth0",
-    "blazor",
+    "C",
     "cplusplus",
-    "csharp",
     "css3",
-    "dotnet",
-    "dotnetcore",
-    "git",
+    "tailwindcss",
     "html5",
+    "java",
+    "eclipse",
     "javascript",
     "microsoft",
+    "python",
+    "linux",
     "react",
-    "sqlite",
-    "tailwindcss",
+    "typescript",
+    "netlify",
+    "vercel",
     "vitejs",
+    "nextjs-pink",
+    "threejs",
     "wordpress",
+    "visualstudiocode",
+    "pocketbase",
+    "mongodb",
+    "mysql",
+    "postman",
+    "git",
+    "github",
+    "arduino",
+    "raspberrypi",
   ];
   return (
     <div className="relative flex h-[15rem] w-full flex-col items-center justify-center">
-      <OrbitingCircles iconSize={40}>
+      <OrbitingCircles iconSize={30} radius={200}>
         {skills.map((skill, index) => (
           <Icon key={index} src={`assets/logos/${skill}.svg`} />
         ))}
       </OrbitingCircles>
-      <OrbitingCircles iconSize={25} radius={100} reverse speed={2}>
+      <OrbitingCircles iconSize={20} radius={150} reverse speed={2}>
         {skills.reverse().map((skill, index) => (
           <Icon key={index} src={`assets/logos/${skill}.svg`} />
         ))}
