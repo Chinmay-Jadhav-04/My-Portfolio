@@ -11,7 +11,7 @@ const About = () => {
 
 
     return (
-        <section className="c-space section-spacing">
+        <section id="about" className="c-space section-spacing">
             <h2 className="text-heading">
                 About Me
             </h2>
@@ -24,7 +24,7 @@ const About = () => {
                     <div className="z-10">
                         <p className="headtext">Hi, I'm Chinmay Jadhav</p>
                         <p className="subtext">I am a 2024 graduate with over three years of hands-on experience in front-end development.
-                            During this time, I’ve built strong skills in creating dynamic and responsive web applications,
+                            During this time, I've built strong skills in creating dynamic and responsive web applications,
                             while currently expanding my expertise into back-end technologies.</p>
                     </div>
                     <div className="absolute inset-x-0 pointer-evets-none -bottom-4 h-1/2 sm:h-1/3 bg-gradient-to-t from-indigo" />
