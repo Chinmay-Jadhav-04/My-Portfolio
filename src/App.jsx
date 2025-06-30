@@ -7,6 +7,7 @@ import Experiences from './sections/Experiences'
 import Testomonial from './sections/Testomonial'
 import Contact from './sections/Contact'
 import Footer from './sections/Footer'
+import Resume from './sections/Resume'
 
 const App = () => {
   return (
@@ -16,6 +17,7 @@ const App = () => {
       <About />
       <Projects />
       <Experiences />
+      <Resume />
       <Testomonial />
       <Contact />
       <Footer />
