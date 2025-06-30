@@ -45,8 +45,6 @@ export const myProjects = [
     subDescription: [
       "Integrated Auth0 for secure authentication, supporting OAuth, JWT, and multi-factor authentication (MFA).",
       "Implemented role-based access control (RBAC) to manage owner and staff permissions.",
-      "Developed a sleek, responsive frontend using React and Tailwind CSS.",
-      "Utilized PocketBase for backend storage and real-time data syncing, enabling efficient data management.",
       "Enables PC café owners to remotely capture screenshots of any active PC to monitor for malicious activity.",
       "Automatically sends session invoice to the users registered mobile number at the end of each session.",
     ],
