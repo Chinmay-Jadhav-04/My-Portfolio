@@ -6,6 +6,7 @@ import Projects from './sections/Projects'
 import Experiences from './sections/Experiences'
 import Testomonial from './sections/Testomonial'
 import Contact from './sections/Contact'
+import Footer from './sections/Footer'
 
 const App = () => {
   return (
@@ -17,7 +18,7 @@ const App = () => {
       <Experiences />
       <Testomonial />
       <Contact />
-      {/* footer */}
+      <Footer />
     </div>
   )
 }
