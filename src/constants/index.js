@@ -3,7 +3,7 @@ export const myProjects = [
     id: 1,
     title: "Link My Logistics",
     description:
-      "Developed Link My Logistics, a comprehensive logistics management software tailored for CHA agents, CFS units, and consignees, streamlining the entire container handling process from port deloading to warehouse delivery.",
+      "Link My Logistics, a comprehensive logistics management software tailored for CHA agents, CFS units, and consignees, streamlining the entire container handling process from port deloading to warehouse delivery.",
     subDescription: [
       "Built with Next.js and Tailwind CSS, ensuring a fast, responsive, and modern user interface.",
       "Integrated core logistics workflows, including container deloading, CFS coordination, and consignee warehouse tracking",
