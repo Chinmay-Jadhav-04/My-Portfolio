@@ -23,7 +23,7 @@ export function Frameworks() {
     "wordpress",
     "visualstudiocode",
     "pocketbase",
-    "mongodb",
+    "MongoDB",
     "mysql",
     "postman",
     "git",
@@ -33,12 +33,12 @@ export function Frameworks() {
   ];
   return (
     <div className="relative flex h-[15rem] w-full flex-col items-center justify-center">
-      <OrbitingCircles iconSize={30} radius={200}>
+      <OrbitingCircles iconSize={30} radius={160}>
         {skills.map((skill, index) => (
           <Icon key={index} src={`assets/logos/${skill}.svg`} />
         ))}
       </OrbitingCircles>
-      <OrbitingCircles iconSize={20} radius={150} reverse speed={2}>
+      <OrbitingCircles iconSize={20} radius={110} reverse speed={2}>
         {skills.reverse().map((skill, index) => (
           <Icon key={index} src={`assets/logos/${skill}.svg`} />
         ))}
