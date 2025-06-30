@@ -5,13 +5,13 @@ import { motion } from "motion/react"
 function Navigation () {
     return <ul className="nav-ul">
         <li className="nav-li">
-            <a className="nav-link" href="#home">
-                Home
+            <a className="nav-link" href="#about">
+                About
             </a>
         </li>
           <li className="nav-li">
-            <a className="nav-link" href="#about">
-                About
+            <a className="nav-link" href="#projects">
+                Projects
             </a>
         </li>
           <li className="nav-li">
