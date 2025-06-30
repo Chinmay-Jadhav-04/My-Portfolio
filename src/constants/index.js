@@ -82,7 +82,6 @@ export const myProjects = [
     subDescription: [
       "Developed a dynamic and responsive frontend using Next.js, JavaScript, Tailwind CSS, and Lucide React for seamless user experience.",
       "Powered by PocketBase for lightweight yet powerful backend operations, supporting multi-branch data handling.",
-      "Introduced a loyalty program with GG Points—earnable on billing and redeemable for up to 50% of the total bill (excluding happy hours).",
       "Added peak hour bonuses (6 PM to 11 PM) and happy hour discounts (1 PM to 3 PM) to enhance customer engagement.",
       "Designed for scalability, the system supports simultaneous access and management across multiple café branches.",
     ],
@@ -119,7 +118,6 @@ export const myProjects = [
       "A modern eCommerce web application built with Next.js and MongoDB, offering a seamless shopping experience similar to platforms like Meesho and AJIO.",
     subDescription: [
       "Designed a dynamic frontend using Next.js and Tailwind CSS for fast, responsive user interfaces.",
-      "Implemented secure user authentication and profile management with OTP verification using Nodemailer.",
       "Developed a streamlined checkout flow with address selection, discount coupon application, and multiple payment methods including COD and online payment.",
       "Integrated real-time payment feedback and delivery estimation based on payment method.",
       "Ensured a user-friendly experience through optimized backend logic and robust MongoDB integration.",
@@ -163,7 +161,6 @@ export const myProjects = [
     subDescription: [
       "Built using Next.js for server-side rendering and fast performance.",
       "Integrated Three.js for interactive 3D visual elements that enhance user experience.",
-      "Styled with Tailwind CSS to ensure a clean, responsive, and modern UI.",
       "Implemented a functional contact form using Nodemailer for seamless communication.",
       "Highlights SKZ Techs expertise, milestones, and service offerings through a compelling visual narrative.",
     ],
@@ -201,7 +198,6 @@ export const myProjects = [
     subDescription: [
       "Developed with Next.js to ensure fast performance and seamless navigation.",
       "Integrated a custom 3D studio in the hero section, designed from scratch in Blender and rendered using Three.js.",
-      "Styled the UI with Tailwind CSS for a responsive and visually clean design.",
       "Built a secure contact system using Nodemailer for direct communication.",
       "Showcases SKZ-CREATIVES design capabilities, projects, and creative vision in a visually immersive format.",
     ],
